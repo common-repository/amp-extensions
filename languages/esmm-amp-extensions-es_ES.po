@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AMP extensions\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-07 12:25+0000\n"
+"PO-Revision-Date: 2017-03-07 12:31+0000\n"
+"Last-Translator: rafael <rafael@estentor.es>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/admin-panel.php:122
+msgid "The AMP extensions PRO clients will also be able to:"
+msgstr "Los usuarios de AMP extensions PRO además también podrán:"
+
+#: includes/admin-panel.php:123
+msgid ""
+"<strong>Related posts fully configurable:</strong> number of posts shown, "
+"relationship, order and location."
+msgstr ""
+"<strong>Artículos relacionados totalmente configurables</strong>: número de "
+"artículos mostrados, relación, ordenación y ubicación."
+
+#: includes/admin-panel.php:124
+msgid "<strong>Adsense:</strong> top, bottom and inline ads."
+msgstr "<strong>Adsense:</strong> anuncios superior, inferior e inline."
+
+#: includes/admin-panel.php:125
+msgid ""
+"<strong>Social Share:</strong> Facebook, Twitter, Google+, LinkedIn, Stumble "
+"Upon, Pinterest, Whatsapp and Telegram."
+msgstr ""
+"<strong>Compartir en redes sociales:</strong> Facebook, Twitter, Google+, "
+"LinkedIn, Stumble Upon, Pinterest, Whatsapp y Telegram."
+
+#: includes/admin-panel.php:126
+msgid "More <strong>new features</strong> we are preparing."
+msgstr ""
+"<strong>Nuevas funcionalidades</strong> adicionales que estamos preparando."
+
+#: includes/admin-panel.php:128
+msgid "Tracking Google Analytics"
+msgstr "Tracking Google Analytics"
+
+#: includes/admin-panel.php:130
+msgid "Custom CSS Code"
+msgstr "Código CSS personalizado"
+
+#: includes/admin-panel.php:132
+msgid "Google Adsense"
+msgstr "Google Adsense"
+
+#: includes/admin-panel.php:133
+msgid "Social Share"
+msgstr "Compartir en redes sociales"
+
+#: includes/admin-panel.php:135
+msgid "3 fixed, by tag"
+msgstr "3 fijos, por etiqueta"
+
+#: includes/admin-panel.php:136
+msgid "Fully configurable"
+msgstr "Totalmente configurable"
+
+#: includes/admin-panel.php:138
+msgid "Get more info about AMP extensions PRO"
+msgstr "Obtén más información sobre AMP extensions PRO"
+
+#: includes/admin-panel.php:19
+#, php-format
+msgid ""
+"In order to get <strong>AMP extensions PREMIUM</strong> running, you have to "
+"install and activate the <a href=\"%s\">Automattic's AMP plugin</a>."
+msgstr ""
+"Para que <strong>AMP extensions PREMIUM</strong> funcione, debes instalar y "
+"activar el <a href=\"%s\">plugin AMP de Automattic</a>."
+
+#: includes/admin-panel.php:41
+msgid "AMP Extensions"
+msgstr "AMP Extensions"
+
+#: includes/admin-panel.php:43
+msgid "AMP Extensions Settings"
+msgstr "Ajustes de AMP Extensions"
+
+#: includes/admin-panel.php:53
+msgid "AMP extensions PRO"
+msgstr "AMP extensions PRO"
+
+#: includes/admin-panel.php:56
+msgid "General"
+msgstr "General"
+
+#: includes/admin-panel.php:59 includes/admin-panel.php:103
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: includes/admin-panel.php:67
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: includes/admin-panel.php:71
+msgid "Tracking ID"
+msgstr "Tracking ID"
+
+#: includes/admin-panel.php:74
+msgid "UA-XXXXX-Y"
+msgstr "UA-XXXXX-Y"
+
+#: includes/admin-panel.php:81 includes/admin-panel.php:129
+msgid "Schema Metadata"
+msgstr "Schema Metadata"
+
+#: includes/admin-panel.php:82
+msgid ""
+"AMP Project recommends that AMP HTML documents are marked up with schema."
+"org/CreativeWork or any of its more specific types such as schema."
+"org/NewsArticle or schema.org/BlogPosting"
+msgstr ""
+"El Proyecto AMP recomienda que los documentos AMP HTML estén marcados como "
+"schema.org/CreativeWork o cualquiera de los otros tipos más específicos, "
+"como schema.org/NewsArticle o schema.org/BlogPosting"
+
+#: includes/admin-panel.php:85
+msgid "Schema"
+msgstr "Schema"
+
+#: includes/admin-panel.php:107
+msgid "CSS Code"
+msgstr "CSS Code"
+
+#: includes/admin-panel.php:131 includes/related-post.php:59
+msgid "Related posts"
+msgstr "Artículos relacionados"
+
+#: includes/admin-panel.php:288
+msgid "Save"
+msgstr "Grabar"
+
+#. Name of the plugin
+msgid "AMP extensions"
+msgstr "AMP extensions"
+
+#. Description of the plugin
+msgid "Implementación de ampliaciones del plugin oficial de AMP"
+msgstr "Implementación de ampliaciones del plugin oficial de AMP"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.estentor.es"
+msgstr "https://www.estentor.es"
+
+#. Author of the plugin
+msgid "Esténtor Social Media Marketing"
+msgstr "Esténtor Social Media Marketing"
